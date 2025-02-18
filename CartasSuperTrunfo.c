@@ -8,10 +8,22 @@
 
 int main() {
     
-    int População;
-    float Área;
+    int Populacao;
+    float Area;
     float PIB;
-    int Número;
+    int NumeroT;         // Numero de pontos turisticos
+
+    printf("Quantidade da popolação? ");
+    scanf("%d" , &Populacao);
+
+    printf("Tamanho da Área? ");
+    scanf("%f", &Area);
+
+    printf("PIB do local? ");
+    scanf("%f", &PIB);
+
+    printf("Numero de pontos turisticos? ");
+    scanf("%d", &NumeroT);
 
 
 
