@@ -4,10 +4,16 @@
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
 // Siga os comentários para implementar cada parte do desafio.
-//Teste Wallace Fiel
+// Teste Wallace Fiel
 
 int main() {
     
+    int População;
+    float Área;
+    float PIB;
+    int Número;
+
+
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
